@@ -13,3 +13,5 @@ git push
 ** mensagem "The current branch master has no upstream branch"
 Quando uma branch nova não está conectado com o repositório local
 > git push --set-upstream origin master
+
+git pull > alterações remotas para o repositório local
