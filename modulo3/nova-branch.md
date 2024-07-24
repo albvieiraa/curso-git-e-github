@@ -16,3 +16,7 @@ nova branch pelo github:
 excluir branch pelo github:
 > sessão de listagem de branchs (com o número das branchs)
 > clicar no ícone da lixeira para excluir a branch
+
+unir as branchs
+> git pull
+> git merge nome-branch
