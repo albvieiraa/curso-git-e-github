@@ -7,3 +7,4 @@ listar quantas branchs:
 > git branch
 
 voltar para a branch
+git checkout nome-branch
